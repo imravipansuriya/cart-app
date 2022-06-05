@@ -1,0 +1,18 @@
+.cart_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #3d3d3d;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.cart_box img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+.total{margin: 10px 10px 50px 10px;
+    font-weight: 500;
+    text-align: right;
+}
